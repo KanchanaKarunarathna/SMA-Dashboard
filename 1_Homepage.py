@@ -18,7 +18,7 @@ st.markdown(
 
 st.markdown(
     "<div style='text-align:center; margin-top:80px;'>"
-    "<h3>Designed By : Gehan Pasindhu(20235926)</h3>"
+    "<h3>Designed By : Kanchana Karunarathna (20228800)</h3>"
     "</div>", unsafe_allow_html=True
 )
 
